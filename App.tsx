@@ -82,7 +82,7 @@ function App(): React.JSX.Element {
                 color: isDarkMode ? Colors.white : Colors.black,
               },
             ]}>
-            The red fox jumps over the brown gate
+            The red fox jumps over the lazy dog
           </Text>
         </View>
 
@@ -96,7 +96,7 @@ function App(): React.JSX.Element {
                 fontSize: 48
               },
             ]}>
-            The red fox jumps over the brown gate
+            The red fox jumps over the lazy dog
           </Text>
         </View>
 
@@ -111,7 +111,7 @@ function App(): React.JSX.Element {
                 fontSize: 24
               },
             ]}>
-            The red fox jumps over the brown gate
+            The red fox jumps over the lazy dog
           </Text>
         </View>
 
